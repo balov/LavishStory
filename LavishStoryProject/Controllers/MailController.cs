@@ -1,5 +1,5 @@
 ﻿
-namespace Blog.Controllers
+namespace LavishStoryProject.Controllers
 {
     using System;
     using System.Net.Mail;
